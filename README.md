@@ -1,1 +1,3 @@
-https://github.com/Sibasish-Padhy/Intermittent-Forecasting-demo/blob/main/Intermittent%20Modelling%20Case%20Studies.pptx
+## Project Presentation
+
+[View PDF](./Intermittent Modelling Case Studies (2).pdf)
